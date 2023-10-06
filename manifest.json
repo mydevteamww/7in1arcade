@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "7 In 1 Classic Arcade By Cyberversestudios",
+  "description": "7 In 1 Classic:Arcade By Nexus Nova Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "7 In 1 Classic Arcade",
+  "name": "7 In 1 Classic:Arcade",
   "orientation": "any",
   "scope": "/",
-  "short_name": "7 In 1 Classic Arcade",
+  "short_name": "7 In 1 Classic:Arcade",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "7 In 1 Classic Arcade",
+      "name": "7 In 1 Classic:Arcade",
       "url": "",
       "description": ""
     }
